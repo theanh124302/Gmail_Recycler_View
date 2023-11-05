@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="inb">Inbox</string>
+    <string name="name">namng.com</string>
+    <string name="note">Touch a sender image to select that conversation</string>
+    <string name="time">12:34 PM</string>
+</resources>
